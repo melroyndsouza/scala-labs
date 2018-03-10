@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala" line="55" mnemonic="1" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="281515ff-8f96-4668-b6aa-8d3bb526942d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -12,21 +15,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloWorldExerciseTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/HelloWorldExerciseTest.scala">
+      <file leaf-file-name="OOExerciseTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/OOExerciseTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="299">
+              <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldExercise.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/HelloWorldExercise.scala">
+      <file leaf-file-name="ScalaTestExerciseTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/ScalaTestExerciseTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="73" column="3" lean-forward="true" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+            <state relative-caret-position="270">
+              <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Specs2ExerciseTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/Specs2ExerciseTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OOExercise.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="70" column="72" lean-forward="true" selection-start-line="70" selection-start-column="72" selection-end-line="70" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrencyConverter.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/CurrencyConverter.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,6 +78,9 @@
         <option value="$PROJECT_DIR$/src/main/java/org/scalalabs/intermediate/lab04/PaymentServiceClient.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/HelloWorldExercise.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/CurrencyConverter.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/OOExerciseTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala" />
       </list>
     </option>
   </component>
@@ -137,11 +173,19 @@
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="lab01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.OOExerciseTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -176,6 +220,31 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="OOExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.scalalabs.basic.lab01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="scala-labs" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab01" />
+      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab01.OOExerciseTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration name="Unnamed" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -257,6 +326,15 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OOExerciseTest" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.OOExerciseTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -280,17 +358,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2018.03.08 at 20h 45m 26s.xml">
-      <configuration name="Unnamed" configurationId="JUnit" />
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 02m 24s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.08 at 20h 47m 10s.xml">
-      <configuration name="Unnamed" configurationId="JUnit" />
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 03m 25s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.08 at 20h 56m 20s.xml">
-      <configuration name="Unnamed" configurationId="JUnit" />
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 30m 47s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.03.08 at 20h 57m 03s.xml">
-      <configuration name="Unnamed" configurationId="JUnit" />
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 31m 59s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 35m 26s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 36m 12s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 36m 50s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OOExerciseTest - 2018.03.08 at 22h 52m 24s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OOExerciseTest - 2018.03.09 at 19h 59m 09s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OOExerciseTest - 2018.03.09 at 20h 03m 01s.xml">
+      <configuration name="OOExerciseTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -305,7 +401,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -329,7 +425,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -347,8 +445,8 @@
           <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#894#895#0" expanded="false" />
-            <element signature="e#948#949#0" expanded="false" />
+            <element signature="e#942#943#0" expanded="false" />
+            <element signature="e#996#997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -361,6 +459,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/HelloWorldExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/HelloWorldExerciseTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -369,10 +475,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/HelloWorldExercise.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/ScalaTestExerciseTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="73" column="3" lean-forward="true" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+        <state relative-caret-position="270">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/Specs2ExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/OOExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="70" column="72" lean-forward="true" selection-start-line="70" selection-start-column="72" selection-end-line="70" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/CurrencyConverter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
