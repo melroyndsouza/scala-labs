@@ -60,6 +60,8 @@ class Euro(val euro: Int, val cents: Int = 0, override val symbol: String = "EUR
 
   def *(euro: Int) = Euro.fromCents(inCents * euro)
 
+  def /(divider: Int):Euro = if (divider <= 0) throw new IllegalArgumentException("Divider cannot be non-positive") else Euro.fromCents(inCents/divider)
+
   override def toString: String = f"${symbol}: ${euro}," + (if (cents == 0) "--" else f"${cents}%02d")
 
   override def compare(that: Euro): Int = inCents.compareTo(that.inCents)
