@@ -15,51 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ListManipulationExercise01Test.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab02/ListManipulationExercise01Test.scala">
+      <file leaf-file-name="FunctionsExerciseTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/FunctionsExerciseTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="71" column="100" lean-forward="false" selection-start-line="71" selection-start-column="100" selection-end-line="71" selection-end-column="100" />
+            <state relative-caret-position="155">
+              <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListManipulationExercise01.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab02/ListManipulationExercise01.scala">
+      <file leaf-file-name="FunctionsExercise.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/FunctionsExercise.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="104" column="30" lean-forward="false" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListManipulationExercise02.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab02/ListManipulationExercise02.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IterableLike.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar!/scala/collection/IterableLike.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="248" column="17" lean-forward="true" selection-start-line="248" selection-start-column="17" selection-end-line="248" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListManipulationExercise02Test.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab02/ListManipulationExercise02Test.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="532">
+              <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -85,6 +55,13 @@
         <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab02/CollectionExercise.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab02/ListManipulationExercise01.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab02/ListManipulationExercise02.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/ForExpressionExerciseTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/ForExpressionExercise.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/OptionExercise.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/RecursionPatternMatchingExercise.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/PatternMatchingExercise.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/FunctionsExerciseTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/FunctionsExercise.scala" />
       </list>
     </option>
   </component>
@@ -214,12 +191,129 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="lab02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab03" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionsExerciseTest.scala" type="6117b065:FileNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab03" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionsExerciseTest.scala" type="6117b065:FileNode" />
+              <item name="AnotherClosable" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab03" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionsExerciseTest.scala" type="6117b065:FileNode" />
+              <item name="Closable" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="lab01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalalabs" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstExerciseTest" type="ce8f04f3:TypeDefinitionNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.org.scalalabs.basic.lab02 in scala-labs">
+  <component name="RunManager" selected="JUnit.org.scalalabs.basic.lab03 in scala-labs">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -265,18 +359,18 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="CollectionExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionsExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.scalalabs.basic.lab02.*" />
+          <option name="PATTERN" value="org.scalalabs.basic.lab03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="scala-labs" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab02" />
-      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab02.CollectionExerciseTest" />
+      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab03" />
+      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab03.FunctionsExerciseTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -290,18 +384,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ListManipulationExercise01Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OptionExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.scalalabs.basic.lab02.*" />
+          <option name="PATTERN" value="org.scalalabs.basic.lab03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="scala-labs" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab02" />
-      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab02.ListManipulationExercise01Test" />
+      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab03" />
+      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab03.OptionExerciseTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -315,18 +409,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="OOExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PatternMatchingExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.scalalabs.basic.lab01.*" />
+          <option name="PATTERN" value="org.scalalabs.basic.lab03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="scala-labs" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab01" />
-      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab01.OOExerciseTest" />
+      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab03" />
+      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab03.PatternMatchingExerciseTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -340,18 +434,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ScalaTestExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursionPatternMatchingExerciseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.scalalabs.basic.lab01.*" />
+          <option name="PATTERN" value="org.scalalabs.basic.lab03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="scala-labs" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab01" />
-      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab01.ScalaTestExerciseTest" />
+      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab03" />
+      <option name="MAIN_CLASS_NAME" value="org.scalalabs.basic.lab03.RecursionPatternMatchingExerciseTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -405,17 +499,17 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="org.scalalabs.basic.lab02 in scala-labs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="org.scalalabs.basic.lab03 in scala-labs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.scalalabs.basic.lab02.*" />
+          <option name="PATTERN" value="org.scalalabs.basic.lab03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="scala-labs" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab02" />
+      <option name="PACKAGE_NAME" value="org.scalalabs.basic.lab03" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -472,19 +566,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.OOExerciseTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ScalaTestExerciseTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CollectionExerciseTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ListManipulationExercise01Test" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.org.scalalabs.basic.lab02 in scala-labs" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PatternMatchingExerciseTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.OptionExerciseTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RecursionPatternMatchingExerciseTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FunctionsExerciseTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.org.scalalabs.basic.lab03 in scala-labs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.org.scalalabs.basic.lab02 in scala-labs" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ListManipulationExercise01Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CollectionExerciseTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ScalaTestExerciseTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.OOExerciseTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.org.scalalabs.basic.lab03 in scala-labs" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FunctionsExerciseTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PatternMatchingExerciseTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RecursionPatternMatchingExerciseTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.OptionExerciseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -510,40 +604,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 05m 40s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="FunctionsExerciseTest - 2018.03.11 at 17h 47m 34s.xml">
+      <configuration name="FunctionsExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 06m 37s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="FunctionsExerciseTest - 2018.03.11 at 17h 54m 15s.xml">
+      <configuration name="FunctionsExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 07m 42s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="FunctionsExerciseTest - 2018.03.11 at 17h 56m 05s.xml">
+      <configuration name="FunctionsExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 09m 19s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="FunctionsExerciseTest - 2018.03.11 at 18h 06m 38s.xml">
+      <configuration name="FunctionsExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 16m 23s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="FunctionsExerciseTest - 2018.03.11 at 18h 16m 04s.xml">
+      <configuration name="FunctionsExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 18m 02s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="FunctionsExerciseTest - 2018.03.11 at 18h 24m 12s.xml">
+      <configuration name="FunctionsExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 20m 21s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="PatternMatchingExerciseTest - 2018.03.11 at 17h 46m 52s.xml">
+      <configuration name="PatternMatchingExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 24m 01s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="RecursionPatternMatchingExerciseTest - 2018.03.11 at 17h 40m 43s.xml">
+      <configuration name="RecursionPatternMatchingExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 26m 58s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="RecursionPatternMatchingExerciseTest - 2018.03.11 at 17h 41m 07s.xml">
+      <configuration name="RecursionPatternMatchingExerciseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_scalalabs_basic_lab02_in_scala-labs - 2018.03.10 at 12h 28m 28s.xml">
-      <configuration name="org.scalalabs.basic.lab02 in scala-labs" configurationId="JUnit" />
+    <history-entry file="org_scalalabs_basic_lab03_in_scala-labs - 2018.03.11 at 18h 24m 30s.xml">
+      <configuration name="org.scalalabs.basic.lab03 in scala-labs" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -678,14 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="62" column="113" lean-forward="false" selection-start-line="62" selection-start-column="83" selection-end-line="62" selection-end-column="113" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab01/Specs2ExerciseTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -701,14 +786,6 @@
           <folding>
             <element signature="e#35#66#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar!/scala/collection/TraversableLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="328" column="6" lean-forward="false" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,8 +863,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab02/ListManipulationExercise02.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="-169">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/ForExpressionExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/OptionExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar!/scala/collection/TraversableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar!/scala/collection/immutable/List.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="109" column="6" lean-forward="false" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/RecursionPatternMatchingExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/RecursionPatternMatchingExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="92" column="3" lean-forward="true" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/ForExpressionExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/OptionExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="70" lean-forward="true" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar!/scala/PartialFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="69" column="6" lean-forward="false" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/PatternMatchingExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="75" column="10" lean-forward="false" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/PatternMatchingExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/org/scalalabs/basic/lab03/FunctionsExerciseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/scalalabs/basic/lab03/FunctionsExercise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding />
         </state>
       </provider>

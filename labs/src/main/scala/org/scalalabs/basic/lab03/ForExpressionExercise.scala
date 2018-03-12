@@ -45,7 +45,10 @@ object ForExpressionExercise01 {
    * @return largest palindrome.
    */
   def largestPalindromWithForExpression(amountOfDigits: Int): Int = {
-    error("Fix me")
+    def isPalindrome(value: Double):Boolean = value.toInt.toString.reverse.contentEquals(value.toInt.toString)
+
+    val palindromes: Seq[Double] = for(i <- ((math.pow(10.0, amountOfDigits)-1) to 1 by -1); j <- (i to 1.0 by -1); if(isPalindrome(i*j))) yield (i * j)
+    palindromes.max.toInt
   }
 
   /**
@@ -57,6 +60,9 @@ object ForExpressionExercise01 {
    * @return largest palindrome.
    */
   def largestPalindromWithHigherOrderFunctions(amountOfDigits: Int): Int = {
-    error("Fix me")
+    def max(digits: Int): Int = (math.pow(10.0, digits)-1).toInt
+    def isPalindrome(value: Int):Boolean = value.toString == value.toString.reverse
+
+    (1 to max(amountOfDigits) by 1).flatMap(i => (1 to i by 1).map(j => (i,j))).map(i => i._1 * i._2).filter(isPalindrome).max
   }
 }

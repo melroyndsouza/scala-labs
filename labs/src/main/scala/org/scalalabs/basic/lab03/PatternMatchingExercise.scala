@@ -1,4 +1,5 @@
 package org.scalalabs.basic.lab03
+
 import sys._
 /**
  * This exercise introduces you to the powerful pattern matching features of Scala.
@@ -29,15 +30,30 @@ object PatternMatchingExercise {
    */
 
   def describeLanguage(s: String) = {
-    error("fix me")
+    s match {
+      case "Java" | "Smalltalk" => "OOP"
+      case "Clojure" | "Haskell" => "Functional"
+      case "Scala" => "Hybrid"
+      case "C" => "Procedural"
+      case _ => "Unknown"
+    }
   }
 
   def matchOnInputType(in: Any) = {
-    error("fix me")
+    in match {
+      case s: String => s"A string with length ${s.length}"
+      case _: Int => "A positive integer"
+      case Person(name, age) => s"A person with name: ${name}"
+      case s:Seq[Any] if s.length <= 10 => s"first: ${s(0)}, second: ${s(1)}, rest: ${s.drop(2).toList}"
+      case _:Seq[Any] => "Seq with more than 10 elements"
+      case _:Option[Any] => "A Scala Option subtype"
+      case null => "A null value"
+      case _ => "Some Scala class"
+    }
   }
 
   def older(p: Person): Option[String] = {
-    error("fix me")
+    List(p).find(_.age > 30).map(_.name)
   }
 
   /**
@@ -48,15 +64,16 @@ object PatternMatchingExercise {
    */
 
   val pf1: PartialFunction[String, String] = {
-    case _ => error("fix me")
+    case "scala-labs" => "scala-labs"
+    case "stuff" => "stuff"
   }
 
   val pf2: PartialFunction[String, String] = {
-    case _ => error("fix me")
+    case "other stuff" => "other stuff"
   }
 
   val pf3: PartialFunction[String, String] = {
-    case _ => error("fix me")
+    pf1 orElse pf2
   }
 
 }

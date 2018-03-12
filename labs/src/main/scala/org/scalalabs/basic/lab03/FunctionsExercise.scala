@@ -16,8 +16,11 @@ object FunctionsExercise01 {
   var printed = ""
   private def logPerf(elapsed: Long) = printed = s"The execution took: $elapsed ms"
 
-  def measure[T]( /* provide correct method parameter */ ): T = {
-    error("fix me")
+  def measure[T]( fn: =>T ): T = {
+    val cTs = System.currentTimeMillis()
+    val resp = fn
+    logPerf(System.currentTimeMillis() - cTs)
+    resp
   }
 
 }
@@ -31,8 +34,9 @@ object FunctionsExercise01 {
 object FunctionsExercise02 {
 
   def plusOne(x: Int): Int = {
-    //implement this using a partial function
-    error("fix me")
+    val partial: Int=>Int = plus(1,_:Int)
+    partial(x)
+
   }
 
   def plus(x: Int, y: Int): Int = {
@@ -40,6 +44,8 @@ object FunctionsExercise02 {
   }
 
   def using[A <: { def close(): Unit }, B](closable: A)(f: A => B): B = {
-    error("fix me")
+    val b = f.apply(closable)
+    closable.close()
+    b
   }
 }
